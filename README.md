@@ -1,7 +1,7 @@
 ### Hi, I'm Diego Meira! 👋
 
 - 👾 I'm currently working on Backend
-- 👽 I'm currently learning SQL and Database
+- 👽 I'm currently developing an API for an app
   -->
 
 ---
