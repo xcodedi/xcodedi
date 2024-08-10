@@ -1,7 +1,8 @@
 ### Hi, I'm Diego Meira! 👋
 
-- 👾 I'm currently working on Backend
+- 👾 I am currently studying in the Backend area
 - 👾 I'm currently developing an API for an app
+- 👾 I'm currently looking for a job in the backend area
 
 ---
 
