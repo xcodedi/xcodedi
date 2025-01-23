@@ -1,6 +1,6 @@
 ### Hi, I'm Diego Meira! 👋
 
-- 👾 I am currently studying in the Backend area
+- 👾 I am currently studying in the Frontend area
 - 👾 I'm currently developing an API for an app
 - 👾 I'm currently looking for a job in the backend area
 
