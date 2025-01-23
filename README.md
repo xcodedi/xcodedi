@@ -26,4 +26,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodedi&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodedi&layout=donut-vertical)](https://github.com/xcodedi/github-readme-stats)
