@@ -1,8 +1,8 @@
 ### Hi, I'm Diego Meira! 👋
 
-- 👾 I am currently studying in the Frontend area
-- 👾 I'm currently developing an API for an app
-- 👾 I'm currently looking for a job in the backend area
+- 👾 I am currently studying in the Frontend area.
+- 👾 I'm currently developing an API for an app.
+- 👾 I'm currently looking for a job in the backend area.
 
 ---
 
@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-meira-1a062521a)
 
-![Xcodedi GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodedi&show_icons=true&theme=tokyonight)
+![Xcodedi GitHub stats](https://github-readme-stats.vercel.app/api?username=xcodedi&show_icons=true&theme=cobalt)
 
 ## Technologies I work with:
 
@@ -26,4 +26,4 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodedi&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcodedi&layout=donut)](https://github.com/xcodedi/github-readme-stats)
