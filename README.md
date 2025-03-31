@@ -1,6 +1,6 @@
 ### Hi, I'm Diego Meira! 👋
 
-- 👾 I'm currently studying IT at university.
+- 👾 I'm currently studying Computer Science at university.
 - 👾 I'm currently studying in the Frontend area.
 - 👾 I'm currently developing an API for an app.
 - 👾 I'm currently looking for a job in the Backend area.
